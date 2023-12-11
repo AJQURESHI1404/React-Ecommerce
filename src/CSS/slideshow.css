@@ -1,0 +1,18 @@
+.slideshow-container {
+    position: relative;
+    max-width: 100%; /* Add the appropriate unit, such as pixels or percentage */
+    overflow: hidden;
+    height: 100vh; /* Set a fixed height or adjust as needed */
+  }
+  
+.slideshow-image {
+    width: 100%;
+    min-height:auto; /* Set a minimum height to ensure the container adjusts to the images */
+    object-fit: cover; /* Maintain aspect ratio and cover the entire container */
+    display: none;
+  }
+  
+  .active {
+    display: block;
+  }
+  

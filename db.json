@@ -1,0 +1,109 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "HP Pavilion 15-eg3036TU",
+      "price": 92999,
+      "rating": 4.5,
+      "description": "13th Gen Intel® Core™ i7/16GB RAM/1 TB SSD with Iris Xe Graphics FHD Laptop",
+      "images": "data/Images/HP laptop.webp"
+    },
+    {
+      "id": 2,
+      "name": "Acer Nitro 5",
+      "price": 79900,
+      "rating": 4.6,
+      "description": "i7 10th gen 8GB 1TB HDD 256GB SSD",
+      "images": "data/Images/acer_nito5.jpg"
+    },
+    {
+      "id": 3,
+      "name": "MSI Thin G6",
+      "price": 44990,
+      "rating": 4.4,
+      "description": "(24.3 MP, SELP1650 Lens) Mirrorless Camera",
+      "images": "data/Images/MSI_thin_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Lenovo IdeaPad Gaming i5",
+      "price": 19990,
+      "rating": 4.3,
+      "description": "(44mm, Bluetooth, Stainless Steel, Black)",
+      "images": "data/Images/popuular_gaming_legion.jpg"
+    },
+    {
+      "id": 5,
+      "name": "HP Victus Gaming",
+      "price": 78690,
+      "rating": 4.2,
+      "description": "(True Wireless Earphones, Triple Black)",
+      "images": "data/Images/HP_Victus.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dell Alien War Gaming Laptop",
+      "price": 12999,
+      "rating": 4.5,
+      "description": "(144Hz High Resolution Display with Built-in Speakers, Killer WiFi)",
+      "images": "data/Images/Dell_Alien_War.jpg"
+    },
+    {
+      "id": 7,
+      "name": "ASUS Vivobook 14, IntelCore i3-1215U 12th Gen",
+      "price": 39500,
+      "rating": 4.6,
+      "description": ", 14 (35.56 cm) FHD, Thin and Light Laptop (8 GB RAM/512GB SSD/Win11/Office 2021/Fingerprint/42WHr /Silver/1.40 kg), X1404ZA-NK322WS",
+      "images": "data/Images/AsusVivoBook.webp"
+    },
+    {
+      "id": 8,
+      "name": "Asus Rog Gaming Laptop",
+      "price": 89999,
+      "rating": 4.3,
+      "description": "Asus Rog Strix",
+      "images": "data/Images/AsusRog.jpg"
+    }
+  ],
+  "employee": [
+    {
+      "name": "Alyan Jamal Qureshi",
+      "designation": "Software Engineer",
+      "salary": "72000",
+      "address": {
+        "city": "Wardha",
+        "state": "Maharashtra",
+        "pincode": "442001"
+      },
+      "id": 1
+    },
+    {
+      "name": "Raghav Tripathi",
+      "designation": "Technical Lead",
+      "salary": "52000",
+      "address": {
+        "city": "Bengaluru",
+        "state": " Karnataka",
+        "pincode": "560004"
+      },
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

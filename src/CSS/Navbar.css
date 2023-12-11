@@ -1,0 +1,58 @@
+
+
+nav{
+
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 80px;
+  align-items: center;
+  background: linear-gradient(to right, rgba(251, 251, 251, 0.9), rgba(254, 192, 248, 0.9));
+   
+}
+
+.navbar li {
+  display: flex;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.link a {
+  text-decoration: none;
+  color: black;
+  margin-right: 20px;
+  font-size: 25px;
+  border: 1px solid black; /* Add a black border around the link */
+  padding: 5px 10px; /* Add padding for better appearance */
+}
+
+Link a:hover {
+  background-color: #ccc; /* Optional: Add a background color on hover for better visibility */
+}
+
+.navbar ul{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.links{
+  margin-right: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.link a{
+  text-decoration: none;
+  color: black;
+  margin-right: 20px;
+  font-size: 25px;
+}
+
+
+.logo {
+  size:150px;
+  width: 150px;
+  height: auto;
+  padding: 10px 20px;
+
+}
